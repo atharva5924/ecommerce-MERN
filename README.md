@@ -63,6 +63,21 @@ npm install
 npm start
 ```
 ---
+## 📁 Folder Structure
+
+```bash
+ecommerce-MERN/
+├── client/          # React frontend
+│   └── src/
+│       └── components/
+│       └── pages/
+├── server/          # Node backend
+│   └── controllers/
+│   └── models/
+│   └── routes/
+│   └── middlewares/
+```
+---
 
 ## 🔐 Environment Variables
 Create a .env file inside the server/ directory:
