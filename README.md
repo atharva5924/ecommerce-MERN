@@ -35,6 +35,12 @@ Mernova is a responsive and scalable full-stack e-commerce platform built using 
 
 ---
 
+## 📊 Design Decisions
+
+- Used **Toastify** for simple global notifications without over-complicating state.
+- Opted for **context API** instead of Redux for minimal overhead and faster development.
+
+---
 ## ⚙️ Installation & Run Locally
 
 ### Prerequisites
