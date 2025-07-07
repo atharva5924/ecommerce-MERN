@@ -128,5 +128,7 @@ This project is licensed under the MIT License.
 
 ```bash
 
-Let me know if you want this as a downloadable file or need a section added!
+
+Let me know if you'd like a **dark/light GitHub preview**, deployable `vercel.json` or MongoDB Atlas `.env` examples.
+
 ```
